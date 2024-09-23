@@ -1,3 +1,6 @@
+# Video 
+[Video Link](https://drive.google.com/file/d/18cG-OX-CeJO6LwR6xmKvJ3qPqF4uCV5O/view?usp=sharing)
+
 # RandomWalk Data Science Assessment
 
 ## Instructions:
